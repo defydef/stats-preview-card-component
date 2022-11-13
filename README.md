@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL] (https://github.com/defydef/stats-preview-card-component)
-- [Live Site URL] (https://defydef.github.io/stats-preview-card-component)
+- Solution URL: (https://github.com/defydef/stats-preview-card-component)
+- Live Site URL: (https://defydef.github.io/stats-preview-card-component)
 
 ## My process
 
@@ -54,7 +54,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode] This helped me to learn about mix-blend-mode and CSS attributes in general
+- https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode - This helped me to learn about mix-blend-mode and CSS attributes in general
 
 ## Author
 
