@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/defydef/stats-preview-card-component)
-- Live Site URL: (https://defydef.github.io/stats-preview-card-component)
+- Solution URL: https://github.com/defydef/stats-preview-card-component
+- Live Site URL: https://defydef.github.io/stats-preview-card-component
 
 ## My process
 
